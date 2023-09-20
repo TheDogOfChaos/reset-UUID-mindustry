@@ -1,0 +1,12 @@
+name: "reset-uuid"
+display-name: "UUID"
+author: "[lime]TheDog[green]OfChaos"
+description: 
+'''
+Adds two main menu buttons: One resets your UUID, the other sets it to whatever you want.
+That's it.
+No bullshit.
+'''
+version: "1.0"
+minGameVersion: "146"
+hidden: true
